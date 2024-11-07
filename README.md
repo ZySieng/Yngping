@@ -4,7 +4,7 @@
 榕拼手写方案的输入方案在此处更新维护。
 
 ## 榕拼手写方案介绍
-榕拼符号设计及键入方案详见以下连接：
+详见以下连接（键盘映射规则在主方案表4）：
 
 [榕拼方案规范文档](https://zingzeu-team.feishu.cn/wiki/wikcnTTSjyz4aJReEAej3ZsIQv8)
 
